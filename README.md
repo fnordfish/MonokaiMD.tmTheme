@@ -16,8 +16,8 @@ I've used [Monokai][3] theme by [Wimer Hazenberg][4] shipped with [TextMate 1][1
 I've used [Smyck][5] theme by Stanley Rost shipped width [Sublime Text 2][2]
 
 The [Smyck-Color-Scheme][6] is licensed under:    
->  The MIT License (MIT) Copyright (c) 2012 John-Paul Bader
-> - http://color.smyck.org/
+> The MIT License (MIT) Copyright (c) 2012 John-Paul Bader    
+> http://color.smyck.org/
 
 
 [1]: http://macromates.com/
